@@ -1,1 +1,1 @@
-pornt("Good bye , World")
+print("Good bye , World")
